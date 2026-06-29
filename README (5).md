@@ -96,19 +96,19 @@ After logging in, click **"Manage Users"** in the dashboard navbar to access CRU
 ## 📸 Screenshots
 
 ### Database — phpMyAdmin `users` Table (with phone & address)
-![DB Table](screenshots/db-table.png)
+![DB Table](db-table.png)
 
 ### Manage Users — Read Operation (with Search, Pagination & Self-row Highlight)
-![Manage Users](screenshots/manage-users.png)
+![Manage Users](manage-users.png)
 
 ### Edit User — Update Operation
-![Edit User](screenshots/edit-user.png)
+![Edit User](edit-user.png)
 
 ### Delete Confirmation — Delete Operation
-![Delete Confirm](screenshots/delete-confirm.png)
+![Delete Confirm](delete-confirm.png)
 
 ### Registration Page — Create Operation (extended fields)
-![Register](screenshots/register.png)
+![Register](register.png)
 
 ---
 
